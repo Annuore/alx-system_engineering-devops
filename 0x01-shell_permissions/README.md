@@ -8,9 +8,9 @@
 - 6-multiple_permisiions: a script that adds execute permissions to the owner, and read permissions to other users, to the file `hello`.
 - 7-everyody:  script that adds execution permission to the owner, the group owner and the other users, to the file `hello`.
 - 8-James_Bond:  script that sets the permission to the file `hello` as follows:
-* Owner: no permission at all
-* Group: no permission at all
-* Other users: all the permissions
+  * Owner: no permission at all
+  * Group: no permission at all
+  * Other users: all the permissions
 - 9-John_Doe:  script that sets the mode of the file `hello` to this:
 ```
 -rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
